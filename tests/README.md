@@ -1,0 +1,2 @@
+# Tests Directory
+Here you should have code or files that will help you test your project by testing each part separately. For example, if building a laser harp, you might want to have an arduino file that looks at what the sensors are reading. Working with servos? How about creating a code that will move only one servo, just to test if it works.

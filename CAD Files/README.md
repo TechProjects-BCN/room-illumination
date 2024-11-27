@@ -1,0 +1,4 @@
+# CAD Files Directory
+Here you should store each CAD model you design. CAD is an accronym for "Computer-Aided Design", and is what is commonly used to create 3D models, some CAD tools are Autodesk Fusion 360, Solidworks or OnShape,.. and although there's not a best pick, Fusion 360 or OnShape are free and have a wide community behind them which you might benefit from. 
+
+Most projects will have several iterations of 3D models, and so will probably yours. Create a folder for each part your project or make it available by providing a link to a drive folder or similar. It is not crucial that you upload your files to Github, but you must make your CAD files accessible somehow to the Mentors, so that we can check them and provide advice.
